@@ -1,4 +1,10 @@
-## Hi there 👋
+👋 Hi, I'm [Xi Zhang](https://x-izhang.github.io/), a PhD student at the [University of Glasgow](https://www.gla.ac.uk/). I am a member of both the [AI4BioMed Lab](https://ai4biomed.org/) and the [Information Retrieval Group](https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/informationretrieval/) within the [IDA section](https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/) of the [School of Computing Science](https://www.gla.ac.uk/schools/computing/). I am fortunate to be advised [Dr Zaiqiao Meng](https://mengzaiqiao.github.io/), [Dr Jake Lever](https://jakelever.github.io/), and [Dr Edmond S. L. Ho](https://www.edho.net/).
+- 🔭 I'm interested in:
+    - AI4Health & AI Agents
+    - Generative AI
+    - Multimodal Large Language Model
+    - Radiology Vision-language System
+- 🌐 Learn more about me at: [https://x-izhang.github.io/](https://x-izhang.github.io/)
 
 <!--
 **X-iZhang/X-iZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
