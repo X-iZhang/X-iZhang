@@ -5,7 +5,7 @@
     - Multimodal Large Language Model
     - Radiology Vision-language System
 - 🌐 Learn more about me at: [https://x-izhang.github.io/](https://x-izhang.github.io/)
-
+- 📬 Happy to research chats and collabs — feel free to email me!
 <!--
 **X-iZhang/X-iZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
