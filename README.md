@@ -7,7 +7,7 @@
     - Generative AI
     - Multimodal Large Language Model
     - Radiology Vision-language System
-- 📬 Happy to research chats and collabs — feel free to [email me](x.zhang.6@research.gla.ac.uk)!
+- 📬 Happy to research chats and collabs — feel free to email me!
 
 <!--
 **X-iZhang/X-iZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
