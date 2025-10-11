@@ -7,6 +7,7 @@
     - Generative AI
     - Multimodal Large Language Model
     - Radiology Vision-language System
+    - Web3 & Blockchain
 - 📬 Happy to research chats and collabs — feel free to email me!
 
 <!--
