@@ -4,7 +4,7 @@
 - 🚀 Launching an AI startup soon.
 - 🔭 I'm interested in:
     - Language Game
-    - Harness Vibe Research
+    - Vibe Research
     - AI Agents & AI4Health
     - Web3 & Blockchain
 - 📬 Open to research discussions, collaborations, and startup connections — feel free to reach out!
