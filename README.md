@@ -1,7 +1,7 @@
 👋 **Hi**, I'm [Xi Zhang](https://x-izhang.github.io/), a final-year CS PhD Candidate at the [University of Glasgow](https://www.gla.ac.uk/). I'm affiliated with both the [AI4BioMed Lab](https://ai4biomed.org/) and the [Information Retrieval Group](https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/informationretrieval/) within the [IDA section](https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/) of the [School of Computing Science](https://www.gla.ac.uk/schools/computing/). 
 
 📌 **Latest updates?** Check out my website for recent projects and thoughts: [x-izhang.github.io](https://x-izhang.github.io/) 
-- 🚀 Currently building [**EvoScientist**](https://evoscientist.ai/) — AI for autonomous research.
+- 🚀 Currently building [EvoScientist](https://evoscientist.ai/) — AI for autonomous research.
 - 🔭 I'm interested in:
     - Language Game
     - Vibe Research
