@@ -1,4 +1,4 @@
-👋 **Hi**, I'm [Xi Zhang](https://x-izhang.github.io/), a final-year CS PhD Candidate at the [University of Glasgow](https://www.gla.ac.uk/).
+👋 **Hi**, I'm [Xi Zhang](https://x-izhang.github.io/), a final-year CS PhD Candidate at the [University of Glasgow](https://www.gla.ac.uk/), previously at the [University of Sydney](https://www.sydney.edu.au/).
 
 📌 **Latest updates?** Check out my website for recent projects and thoughts: [x-izhang.github.io](https://x-izhang.github.io/) 
 - 🚀 Currently building [EvoScientist](https://evoscientist.ai/) — AI for autonomous research.
